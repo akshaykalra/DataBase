@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-
+        //Testing Commit
 		
 		  db = new DatabaseHandler(this);
          
